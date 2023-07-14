@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://www.pyinstitution.in/</loc>
+      <lastmod>2023-07-06</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>https://www.pyinstitution.in/about</loc>
+      <lastmod>2023-07-06</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>https://www.pyinstitution.in/services</loc>
+      <lastmod>2023-07-06</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>https://www.pyinstitution.in/contact</loc>
+      <lastmod>2023-07-06</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>http://pyinstitution.in/Home.html</loc>
+      <priority>0.5</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-07-06</lastmod>
+</url>
+<url>
+  <loc>http://pyinstitution.in/Achievements.html</loc>
+  <priority>0.5</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-07-06</lastmod>
+</url>
+
+<url>
+  <loc>http://pyinstitution.in/Demo-Booking.html</loc>
+  <priority>0.5</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-07-06</lastmod>
+</url>
+<url>
+  <loc>http://pyinstitution.in/cdn-cgi/l/email-protection</loc>
+  <priority>0.5</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-07-06</lastmod>
+</url>
+
+   <!-- Add more URL entries for each page on your website -->
+
+</urlset>
